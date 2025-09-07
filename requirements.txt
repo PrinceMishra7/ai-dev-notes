@@ -1,0 +1,8 @@
+langgraph
+langchain
+ipython
+langchain_ollama
+langchain_community
+typing
+chromadb
+langchain_chroma
